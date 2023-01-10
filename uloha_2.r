@@ -1,3 +1,6 @@
+#Pomocou nalievaní, prelievaní a vylievaní odmerajte 4 litre, keď prvý krčah má maximálnu kapacitu 5 litrov a druhý krčah má maximálnu kapacitu 2 litre. 
+#Začnite z východiskového bodu, kedy v prvom krčahu je 3 litre a v druhom krčahu 0 litrov.
+
 library(igraph)
 
 PrvyKrcahObjem=5

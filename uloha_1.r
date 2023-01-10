@@ -1,3 +1,5 @@
+#Vyrobte práve 3 riešenia pre šachovnicu 9x9, zvyšné negenerujte.
+
 N=9 
 limit=3
 counter=0
